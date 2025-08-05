@@ -1,0 +1,807 @@
+state,route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price,seats_available
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:10,07h 05m,06:15,4.6,509,20
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),16:35,07h 20m,23:55,4.7,458,4
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),22:35,06h 50m,05:25,4.6,404,9
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,AdYolo Bus,A/C Seater/Sleeper (2+1),22:46,06h 38m,05:24,3.8,560,18
+Andhra Pradesh,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.6,559,11
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),22:50,06h 05m,04:55,4.7,476,31
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),23:25,06h 05m,05:30,4.7,449,36
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),16:30,06h 40m,23:10,4.7,431,13
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,AdYolo Bus,A/C Seater / Sleeper (2+1),22:43,06h 19m,05:02,3.8,460,12
+Andhra Pradesh,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,FRESHBUS,Electric A/C Seater (2+2),17:30,06h 40m,00:10,4.7,395,27
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,APSRTC - 2815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,03h 00m,20:30,3.5,281,9
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,APSRTC - 3332,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,04h 00m,22:00,3.7,281,27
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,APSRTC - 27083,METRO LUXURY A/C,18:00,03h 00m,21:00,4.0,383,15
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,APSRTC - 2869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,03h 00m,21:30,3.7,281,34
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,APSRTC - 2857,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",18:30,05h 00m,23:30,3.7,269,33
+Andhra Pradesh,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,SRI VIJAYA KRISHNA TOURS and TRAVELS,Non A/C Seater / Sleeper (2+1),23:59,03h 31m,03:30,3.4,1999,32
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,APSRTC - 5151,STAR LINER(NON-AC SLEEPER 2+1),18:00,09h 15m,03:15,3.9,677,5
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,APSRTC - 5870,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,09h 30m,04:00,4.0,522,16
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,APSRTC - 5070,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:45,08h 40m,03:25,1.9,556,18
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,APSRTC - 48821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,09h 15m,04:15,3.7,522,13
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,APSRTC - 5859,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,09h 00m,04:00,4.6,522,6
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:50,06h 35m,06:25,4.7,539,18
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Vikram Travels,A/C Seater / Sleeper (2+1),21:55,07h 35m,05:30,4.5,559,18
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),21:45,08h 30m,06:15,4.4,648,5
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Kaveri Travels,A/C Seater / Sleeper (2+1),22:30,08h 00m,06:30,4.2,580,8
+Andhra Pradesh,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Pspk Bus,Non A/C Seater / Sleeper (2+1),21:30,09h 00m,06:30,4.2,800,4
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,APSRTC - 4310,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,05h 45m,23:00,3.6,426,31
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,APSRTC - 9020,Express Non AC Seater 2+3,17:30,06h 25m,23:55,2.1,296,29
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,APSRTC - 4020,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:15,05h 35m,23:50,2.9,426,25
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,APSRTC - 47211,Express Non AC Seater 2+3,18:30,06h 20m,00:50,3.3,296,38
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,APSRTC - 4610,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,06h 00m,01:00,3.4,426,23
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,FlixBus,A/C Sleeper (2+1),16:10,06h 00m,22:10,4.1,454.46,7
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),16:19,05h 20m,21:39,3.5,240,5
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Navayuga Travels,A/C Sleeper (2+1),16:20,04h 55m,21:15,3.9,700,8
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,AdYolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,05h 48m,04:33,3.6,640,17
+Andhra Pradesh,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Shree Manikanta Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),16:30,04h 50m,21:20,3.4,699,14
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,APSRTC - 5380,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,10h 06m,05:06,4.4,624,3
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,APSRTC - 5866,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,10h 01m,05:46,4.7,602,2
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,APSRTC - 5913,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,09h 06m,05:36,4.0,590,2
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,07h 20m,04:20,4.3,555,7
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,APSRTC - 5915,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,08h 05m,05:20,4.1,605,8
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Vikram Travels,A/C Seater / Sleeper (2+1),23:15,07h 03m,06:18,4.8,579,18
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,V Kaveri Travels,NON A/C Sleeper (2+1),22:45,07h 15m,06:00,4.7,700,9
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),22:30,07h 35m,06:05,4.5,820,9
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),23:00,07h 35m,06:35,4.5,707,8
+Andhra Pradesh,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Pspk Bus,Non A/C Seater / Sleeper (2+1),21:20,08h 20m,05:40,4.4,450,9
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,APSRTC - 52921,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,04h 50m,22:50,3.4,365,34
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,APSRTC - 52937,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",21:45,04h 53m,02:38,4.4,307,33
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,APSRTC - 6985,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,04h 30m,03:00,3.8,365,28
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,APSRTC - 6781,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",22:45,04h 45m,03:30,3.7,307,12
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,APSRTC - 6960,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:15,03h 47m,03:02,3.8,365,28
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Royal Rich India - R No 208,Bharat Benz A/C Sleeper (2+1),20:10,03h 35m,23:45,4.6,1400,3
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:40,03h 35m,03:15,4.7,800,18
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Royal Rich India,Bharat Benz A/C Sleeper (2+1),18:10,04h 50m,23:00,4.7,1250,12
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),23:59,05h 46m,05:45,3.7,600,24
+Andhra Pradesh,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:00,01h 59m,23:59,4.2,1100,19
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,APSRTC - 5779,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,06h 35m,23:50,1.7,496,22
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,APSRTC - 5226,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,08h 15m,02:00,3.8,512,13
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,APSRTC - 5296,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,08h 00m,02:00,2.9,512,27
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,APSRTC - 7745,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:20,08h 10m,02:30,3.5,496,31
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,APSRTC - 48484,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:20,07h 25m,02:45,3.8,496,13
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),19:15,07h 45m,03:00,3.7,599,8
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Royal Voyage Travels (RVT),A/C Seater / Sleeper (2+1),19:20,08h 05m,03:25,3.7,600,14
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Giridhar Tours and Travels,A/C Seater/Sleeper (2+1),19:24,07h 51m,03:15,4.7,790,19
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,AdAR & BCVR Travels,A/C Sleeper (2+1),20:40,07h 50m,04:30,4.4,900,9
+Andhra Pradesh,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Amara Tours And Travels,A/C Seater / Sleeper (2+1),19:30,07h 30m,03:00,4.6,599,18
+Andhra Pradesh,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,FRESHBUS,Electric A/C Seater (2+2),16:40,03h 40m,20:20,4.7,404,8
+Andhra Pradesh,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,NueGo,Electric A/C Seater (2+2),16:50,06h 00m,22:50,3.8,332,1
+Andhra Pradesh,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,NueGo,Electric A/C Seater (2+2),19:20,28h 25m,23:45,4.1,332,25
+Andhra Pradesh,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,FRESHBUS,Electric A/C Seater (2+2),19:45,03h 50m,23:35,4.1,404,12
+Andhra Pradesh,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),20:21,04h 37m,00:58,4.0,440,11
+Andhra Pradesh,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:00,04h 00m,23:00,4.6,399,9
+Andhra Pradesh,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Zingbus Plus,A/C Sleeper (2+1),20:10,03h 45m,23:55,4.2,816,20
+Andhra Pradesh,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),20:45,05h 45m,02:30,4.8,600,17
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,05h 55m,23:10,3.9,472,34
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,05h 20m,01:20,3.7,472,34
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,APSRTC - 6240,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",21:00,07h 00m,04:00,3.5,412,32
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,APSRTC - 6205,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,05h 45m,03:15,3.3,472,33
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,APSRTC - 6073,INDRA(A.C. Seater),22:00,05h 00m,03:00,3.8,526,32
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,RK Travels,Non A/C Seater / Sleeper (2+1),22:25,07h 05m,05:30,4.3,500,15
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Sri Vinayaka Travels,A/C Sleeper (2+1),22:30,06h 30m,05:00,4.0,850,1
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Sri Vinayaka Travels,NON A/C Sleeper (2+1),22:30,06h 15m,04:45,3.4,650,2
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,AdAR & BCVR Travels,Non A/C Seater / Sleeper (2+1),23:30,06h 00m,05:30,4.1,500,23
+Andhra Pradesh,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Maheswari Travels,Non A/C Seater / Sleeper (2+1),22:40,07h 00m,05:40,4.1,500,24
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,APSRTC - 52532,Express Non AC Seater 2+3,17:30,04h 30m,22:00,1.9,224,36
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,APSRTC - 52533,Express Non AC Seater 2+3,18:45,05h 00m,23:45,3.4,224,44
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,APSRTC - 6160,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,04h 44m,23:59,3.3,321,30
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,APSRTC - 6182,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,05h 00m,00:45,3.3,321,21
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,APSRTC - 52535,Express Non AC Seater 2+3,21:30,05h 00m,02:30,4.2,224,45
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Maheswari Travels,Non A/C Seater / Sleeper (2+1),20:00,06h 40m,02:40,3.9,500,18
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Indu Travels,Non A/C Seater / Sleeper (2+1),20:00,06h 15m,02:15,4.2,500,18
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,SEVEN HILLS TRAVELS,Non A/C Seater / Sleeper (2+1),20:25,06h 05m,02:30,4.2,500,13
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Indu Travels,Non A/C Seater / Sleeper (2+1),20:30,05h 45m,02:15,3.9,500,19
+Andhra Pradesh,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Vasavi travels,Non A/C Seater / Sleeper (2+1),20:30,05h 30m,02:00,3.8,500,25
+Andhra Pradesh,Madanapalli to Bangalore,https://www.redbus.in/bus-tickets/madanapalli-to-bangalore,HARITHA TRAVELS,A/C Seater / Sleeper (2+1),01:15,04h 20m,05:35,3.8,400,18
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,APSRTC - 9003,Express Non AC Seater 2+3,18:00,06h 25m,00:25,2.6,312,39
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,APSRTC - 9041,Express Non AC Seater 2+3,19:00,06h 25m,01:25,3.7,333,45
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,APSRTC - 9061,Express Non AC Seater 2+3,19:45,06h 25m,02:10,2.7,333,34
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,APSRTC - 5524,Express Non AC Seater 2+3,20:45,06h 10m,02:55,2.2,296,38
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,APSRTC - 9080,Express Non AC Seater 2+3,21:15,30h 25m,03:40,2.9,333,38
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,NueGo,Electric A/C Seater (2+2),18:00,29h 45m,23:45,4.3,332,23
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,FRESHBUS,Electric A/C Seater (2+2),18:00,05h 35m,23:35,4.7,404,14
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),19:00,05h 58m,00:58,3.6,440,5
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,AdHYBUS,Bharat Benz A/C Sleeper (2+1),23:45,05h 30m,05:15,4.4,585,14
+Andhra Pradesh,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,NueGo,Electric A/C Seater (2+2),19:30,06h 45m,02:15,4.2,342,25
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,APSRTC - 9020,Express Non AC Seater 2+3,17:30,04h 25m,21:55,3.0,202,28
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,APSRTC - 47211,Express Non AC Seater 2+3,18:30,04h 25m,22:55,3.3,202,35
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,APSRTC - 5515,Express Non AC Seater 2+3,20:30,05h 30m,02:00,2.9,239,36
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,APSRTC - 47216,Express Non AC Seater 2+3,21:00,05h 25m,02:25,3.7,239,2
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,APSRTC - 5672,Express Non AC Seater 2+3,21:30,04h 40m,02:10,4.0,202,22
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,FlixBus,A/C Sleeper (2+1),16:10,05h 00m,21:10,3.1,329.46,7
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,SVD Vedansh Travels,A/C Sleeper (2+1),16:10,03h 20m,19:30,3.7,500,2
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),16:19,04h 24m,20:43,3.6,240,7
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),16:44,02h 09m,18:53,3.8,279,2
+Andhra Pradesh,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Mayuri Travels,A/C Sleeper (2+1),18:00,03h 30m,21:30,3.7,500,21
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,APSRTC - 6824,Express Non AC Seater 2+3,17:15,04h 30m,21:45,3.4,224,44
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,APSRTC - 52511,Express Non AC Seater 2+3,18:00,04h 00m,22:00,3.0,224,44
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,APSRTC - 52545,Express Non AC Seater 2+3,20:30,04h 15m,00:45,3.2,224,45
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,APSRTC - 6846,Express Non AC Seater 2+3,21:45,04h 30m,02:15,4.5,224,45
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,APSRTC - 52509,Express Non AC Seater 2+3,23:00,04h 20m,03:20,4.3,224,45
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,AR & BCVR Travels,Non A/C Seater / Sleeper (2+1),23:55,05h 05m,05:00,4.4,500,20
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,AR & BCVR Travels,Non A/C Seater / Sleeper (2+1),23:55,05h 05m,05:00,4.4,500,8
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,SEVEN HILLS TRAVELS,Non A/C Seater / Sleeper (2+1),23:59,05h 01m,05:00,4.2,500,29
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Indu Travels,Non A/C Seater / Sleeper (2+1),23:59,05h 01m,05:00,3.8,500,26
+Andhra Pradesh,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Vasavi travels,Non A/C Seater / Sleeper (2+1),23:59,05h 01m,05:00,3.8,500,34
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,APSRTC - 5815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,07h 40m,02:30,3.9,402,2
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,APSRTC - 4529,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,07h 15m,04:00,3.8,394,5
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,APSRTC - 4538,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,07h 15m,04:00,4.2,394,5
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,APSRTC - 4527,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,06h 45m,04:25,3.5,394,1
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,APSRTC - 4515,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:40,06h 50m,04:30,4.3,394,4
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,KKaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,07h 10m,04:10,3.8,560,10
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Kamakshi Tours And Travels,Non A/C Seater / Sleeper (2+1),21:30,06h 45m,04:15,4.0,850,3
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,06h 30m,04:00,4.4,900,10
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,V Kaveri Travels,NON A/C Sleeper (2+1),21:30,06h 30m,04:00,3.9,799,21
+Andhra Pradesh,Hyderabad to Narasaraopet,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Pspk Bus,Non A/C Seater / Sleeper (2+1),21:30,06h 40m,04:10,4.6,750,7
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,APSRTC - 4482,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,04h 55m,02:55,4.3,427,10
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,APSRTC - 4537,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:05,05h 05m,03:10,4.5,427,21
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,APSRTC - 4553,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,05h 10m,03:25,4.2,427,12
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,APSRTC - 4526,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:35,05h 05m,03:40,3.9,427,6
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,APSRTC - 5816,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,04h 45m,03:25,4.3,435,15
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Siva Sai Balaji Tours and Travels,A/C Seater / Sleeper (2+1),22:30,06h 00m,04:30,4.2,664,1
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,VSN Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,4.2,700,7
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Siva Sai Balaji Tours and Travels,Non A/C Seater / Sleeper (2+1),22:40,05h 10m,03:50,4.3,425,18
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Kundana Travels,Non A/C Seater / Sleeper (2+1),22:45,07h 10m,05:55,3.8,390,9
+Andhra Pradesh,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Kundana Travels,NON A/C Seater (2+2),22:45,07h 10m,05:55,4.3,990,32
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,APSRTC - 3437,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,04h 15m,21:30,2.4,281,34
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,APSRTC - 3715,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,05h 10m,22:40,3.6,281,37
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,APSRTC - 2215,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,04h 35m,22:05,3.6,281,33
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,APSRTC - 2818,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,03h 40m,21:40,2.1,281,29
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,APSRTC - 2834,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:15,04h 15m,22:30,2.4,281,34
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,MAHA BUS,A/C Sleeper (2+1),21:30,04h 10m,01:40,3.9,1190,3
+Andhra Pradesh,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:40,03h 50m,02:30,4.4,777,17
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,APSRTC - 5769,Express Non AC Seater 2+3,17:30,03h 15m,20:45,3.3,157,6
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,APSRTC - 7587,Express Non AC Seater 2+3,18:30,04h 00m,22:30,3.6,173,23
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,APSRTC - 47135,Express Non AC Seater 2+3,19:30,03h 30m,23:00,3.3,173,36
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,APSRTC - 7595,Express Non AC Seater 2+3,20:30,04h 00m,00:30,4.3,173,41
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Maheswari Travels,Non A/C Seater / Sleeper (2+1),20:15,05h 45m,02:00,3.5,450,20
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,RK Travels,Non A/C Seater / Sleeper (2+1),21:10,06h 00m,03:10,3.5,399,23
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Shiva Parvathi Tours And Travels,Non A/C Seater / Sleeper (2+1),19:00,06h 00m,01:00,4.1,2000,40
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),19:15,04h 44m,23:59,3.2,599,22
+Andhra Pradesh,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Amara Tours And Travels,A/C Seater / Sleeper (2+1),19:30,05h 00m,00:30,4.9,599,18
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),19:00,09h 25m,04:25,4.0,883,6
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1585,Swift Deluxe Non AC Air Bus (2+2),20:40,09h 05m,05:45,4.0,883,15
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 1586,Swift Deluxe Non AC Air Bus (2+2),21:30,08h 55m,06:25,3.4,883,17
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),22:10,09h 10m,07:20,4.3,883,9
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),23:00,10h 35m,09:35,3.1,765,10
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,MMK Travels,A/C Seater / Sleeper (2+1),22:30,09h 00m,07:30,4.3,750,16
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,ESTEEM TOURS & TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 55m,06:55,4.5,720,2
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,SKS Tours & Travels,A/C Sleeper (2+1),21:15,08h 30m,05:45,4.4,899,15
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,AdSAAM BUS,A/C Seater / Sleeper (2+1),21:45,08h 20m,06:05,3.9,750,8
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode,DLT BUS,A/C Sleeper (2+1),22:30,09h 00m,07:30,4.3,999,13
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 3991,Swift Deluxe Non AC Air Bus (2+2),20:25,04h 36m,01:01,3.1,309,1
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,05h 35m,02:35,3.8,269,21
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 2454,Low Floor AC Seater 2+2,21:40,05h 20m,03:00,2.6,383,11
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 666,Super Fast Non AC Seater (2+3),22:25,05h 54m,04:19,3.6,269,24
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),22:40,05h 00m,03:40,4.3,288,1
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,04h 30m,01:30,3.7,600,5
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:45,04h 15m,02:00,3.2,949,18
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03h 30m,01:45,3.7,900,2
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Shajees Motors,A/C Semi Sleeper (2+2),22:40,04h 50m,03:30,3.1,630,21
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam,Achayans Holidays,VE A/C Semi Sleeper (2+2),23:00,04h 50m,03:50,3.3,580,13
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:05,09h 20m,04:25,3.5,1242,25
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,DLT BUS,A/C Sleeper (2+1),21:45,08h 45m,06:30,4.5,1499,5
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,MMK Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.4,1199,6
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,SKS Tours & Travels,A/C Sleeper (2+1),21:00,09h 00m,06:00,4.1,1399,8
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore,National travels and logistics,NON A/C Sleeper (2+1),20:45,09h 30m,06:15,4.0,1165,5
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,KSRTC (Kerala) - 2572,Super Fast Non AC Seater (2+3),17:10,06h 40m,23:50,2.9,261,40
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,KSRTC (Kerala) - 723,Super Fast Non AC Seater (2+3),17:40,05h 25m,23:05,4.0,269,41
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,KSRTC (Kerala) - 2569,Super Fast Non AC Seater (2+3),18:00,06h 35m,00:35,3.8,261,30
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,KSRTC (Kerala) - 2517,Swift Deluxe Non AC Air Bus (2+2),18:36,04h 40m,23:16,3.4,360,18
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,KSRTC (Kerala) - 3900,Super Fast Non AC Seater (2+3),19:00,05h 50m,00:50,2.9,255,38
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Shajees Motors,A/C Semi Sleeper (2+2),19:05,06h 10m,01:15,4.0,600,11
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Sheraton Tours and Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:00,05h 45m,01:45,5.0,570,5
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Crownline Travels,A/C Sleeper (2+1),20:15,03h 30m,23:45,4.1,799,21
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Ameyazz Travel lounge,AC Seater (2+2),20:25,05h 35m,02:00,N/A,600,21
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode,Kalpaka Travels 1,A/C Sleeper (2+1),20:45,05h 45m,02:30,4.6,800,13
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:05,07h 00m,02:05,3.8,760,25
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,KSRTC (Kerala) - 719,Super Fast Non AC Seater (2+3),23:00,06h 40m,05:40,3.6,348,1
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,NON A/C Seater / Sleeper (3+1),21:45,06h 15m,04:00,3.5,700,4
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,NON A/C Semi Sleeper / Sleeper (2+1),19:30,07h 00m,02:30,4.1,999,1
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,A1 Travels,A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,3.5,1050,3
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,A/C Sleeper (2+1),20:00,06h 45m,02:45,4.1,1249,2
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore,NS Transports,NON A/C Semi Sleeper / Sleeper (2+1),20:30,06h 00m,02:30,4.1,999,2
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 3772,Super Fast Non AC Seater (2+3),18:30,05h 45m,00:15,3.7,293,35
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),21:50,06h 35m,04:25,4.4,545,6
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1077,Super Fast Non AC Seater (2+3),22:30,07h 20m,05:50,3.6,348,23
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1585,Swift Deluxe Non AC Air Bus (2+2),23:00,06h 45m,05:45,4.2,545,14
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,KSRTC (Kerala) - 1586,Swift Deluxe Non AC Air Bus (2+2),23:50,06h 35m,06:25,4.0,545,14
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),17:30,06h 00m,23:30,3.6,750,12
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Cochin Bus,Bharat Benz A/C Sleeper (2+1),17:50,06h 08m,23:58,4.5,800,1
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,Suraj Holidays,NON A/C Seater/ Sleeper (2+1),23:00,07h 00m,06:00,4.3,600,14
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,NS Transports,NON A/C Semi Sleeper / Sleeper (2+1),23:57,06h 33m,06:30,4.1,649,1
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode,ESTEEM TOURS & TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),23:59,06h 56m,06:55,4.5,720,2
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 2390,Low Floor AC Seater 2+2,17:30,03h 30m,21:00,4.3,253,1
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1662,Low Floor AC Seater 2+2,20:00,03h 30m,23:30,3.2,278,31
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 1350,AC MULTI AXLE,20:10,02h 55m,23:05,3.2,391,38
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 424,Super Fast Non AC Seater (2+3),20:30,03h 45m,00:15,3.2,181,12
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,KSRTC (Kerala) - 3294,Super Fast Non AC Seater (2+3),21:00,04h 00m,01:00,3.2,181,21
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,BLM Transports,A/C Sleeper (2+1),22:00,03h 00m,01:00,3.4,1062,6
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,EMERALD TRAVELS,A/C Sleeper (2+1),22:10,02h 20m,00:30,3.0,1299,5
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Madhavi Travels,A/C Sleeper (2+1),22:20,02h 55m,01:15,4.0,1299,2
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:45,02h 25m,01:10,3.0,1100,4
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur,CITI TOURS,Bharat Benz A/C Sleeper (2+1),22:45,02h 45m,01:30,3.3,1000,17
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 765,Super Fast Non AC Seater (2+3),19:00,03h 20m,22:20,3.0,181,47
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2819,Super Fast Non AC Seater (2+3),19:05,03h 20m,22:25,3.0,181,35
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2498,Low Floor AC Seater 2+2,19:10,03h 05m,22:15,3.0,253,3
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 2572,Super Fast Non AC Seater (2+3),19:40,04h 10m,23:50,3.0,174,40
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,KSRTC (Kerala) - 723,Super Fast Non AC Seater (2+3),19:45,03h 20m,23:05,3.0,181,43
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,UFO Bus,A/C Semi Sleeper (2+2),23:10,03h 25m,02:35,4.2,450,27
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Arya Plus Connect,A/C Seater/Sleeper (2+1),23:45,02h 15m,02:00,2.9,500,35
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Crownline Travels,A/C Sleeper (2+1),22:15,01h 30m,23:45,4.1,799,21
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),22:20,02h 25m,00:45,3.8,800,16
+Kerala,Thrissur to Kozhikode,https://www.redbus.in/bus-tickets/thrissur-to-kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:31,02h 54m,01:25,3.0,650,27
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 136,Swift Deluxe Non AC Air Bus (2+2),20:30,06h 40m,03:10,4.1,781,7
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 98,Swift Deluxe Non AC Air Bus (2+2),21:55,07h 15m,05:10,3.7,791,12
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,KSRTC (Kerala) - 1767,Super Express Non AC Seater Air Bus (2+2),23:10,07h 15m,06:25,4.1,781,5
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,NS Transports,Bharat Benz A/C Sleeper (2+1),22:15,07h 15m,05:30,4.6,999,2
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,Volvo A/C Semi Sleeper (2+2),22:45,06h 00m,04:45,4.4,949,22
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,Ashoka Travel and Logistics,A/C Sleeper (2+1),21:45,07h 45m,05:30,4.3,1000,6
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,GOLDEN TRAVEL AGENCIES,A/C Sleeper (2+1),21:30,07h 45m,05:15,4.4,999,6
+Kerala,Bangalore to Kannur (Kerala),https://www.redbus.in/bus-tickets/bangalore-to-kannur,Kalpaka Travels,A/C Sleeper (2+1),22:10,06h 50m,05:00,4.1,1000,4
+Telangana,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Orange Tours and Travels,A/C Sleeper (2+1),17:30,04h 20m,21:50,3.0,400,13
+Telangana,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Shyamoli Paribahan Pvt Ltd,Bharat Benz A/C Sleeper (2+1),18:20,04h 20m,22:40,4.2,792,1
+Telangana,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:40,04h 20m,04:00,3.9,500,10
+Telangana,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:45,05h 15m,05:00,4.1,410,17
+Telangana,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,3.6,400,18
+Telangana,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TGSRTC - 1254,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,12h 20m,08:30,3.2,464,13
+Telangana,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TGSRTC - 1252,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,12h 05m,08:20,4.0,464,29
+Telangana,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TGSRTC - 1280,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,11h 35m,08:20,4.0,464,26
+Telangana,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TGSRTC - 1045,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,11h 00m,08:30,3.4,464,12
+Telangana,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TGSRTC - 1250,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,10h 35m,08:20,3.4,464,14
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TGSRTC - 64021,Rajdhani (AC Semi Sleeper 2+2),17:30,03h 30m,21:00,3.9,389,13
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TGSRTC - 64363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,04h 20m,22:20,3.9,320,28
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TGSRTC - 8610,Rajdhani (AC Semi Sleeper 2+2),18:15,03h 30m,21:45,3.9,389,29
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TGSRTC - 8699,Rajdhani (AC Semi Sleeper 2+2),19:00,03h 30m,22:30,2.5,389,28
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,TGSRTC - 8933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,04h 50m,00:05,3.9,320,30
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),17:30,05h 00m,22:30,3.5,800,17
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Puri Jagannadh Tours And Travels,Non A/C Seater / Sleeper (2+1),19:05,07h 25m,02:30,3.9,610,6
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,04h 00m,23:30,3.9,700,25
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,SBS Tours and Travels,Non A/C Seater / Sleeper (2+1),20:30,05h 54m,02:24,4.3,404,22
+Telangana,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri KVR Travels,A/C Seater / Sleeper (2+1),20:30,06h 30m,03:00,4.1,549,23
+Telangana,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:10,07h 05m,06:15,4.6,499,20
+Telangana,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),16:35,07h 20m,23:55,4.7,458,4
+Telangana,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),22:35,06h 50m,05:25,4.6,404,8
+Telangana,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,AdYolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,07h 34m,05:19,3.8,590,17
+Telangana,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.6,559,11
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TGSRTC - 7055,e-SUP LUXURY (2+2),17:10,03h 00m,20:10,3.8,260,32
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TGSRTC - 7395,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:20,03h 00m,20:20,3.8,260,28
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TGSRTC - 7808,LAHARI A/C SLEEPER CUM SEATER,17:30,03h 45m,21:15,3.8,315,23
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TGSRTC - 7057,e-SUP LUXURY (2+2),17:50,03h 00m,20:50,3.8,260,35
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TGSRTC - 7326,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:55,03h 00m,20:55,3.8,260,31
+Telangana,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,IRA Transports,VE A/C Sleeper (2+1),19:00,05h 00m,00:00,4.0,2399,3
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,TGSRTC - 8099,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,05h 25m,22:10,3.7,406,29
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,TGSRTC - 8092,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,05h 25m,22:40,3.7,406,30
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,TGSRTC - 8019,Rajdhani (AC Semi Sleeper 2+2),18:00,05h 25m,23:25,3.7,492,30
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,TGSRTC - 8034,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,06h 15m,00:15,3.7,406,31
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,TGSRTC - 8049,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,06h 30m,01:00,3.7,406,23
+Telangana,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,DNR Express,AC Sleeper (2+1),21:30,04h 30m,02:00,3.3,1200,9
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,TGSRTC - 7932,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,07h 30m,02:30,3.7,504,27
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,TGSRTC - 7920,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,07h 25m,04:25,3.7,481,30
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,TGSRTC - 7906,Lahari Non A/C Sleeper Cum Seater,21:30,07h 25m,04:55,3.7,483,9
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,TGSRTC - 1966,Rajdhani (AC Semi Sleeper 2+2),22:00,07h 15m,05:15,3.7,586,23
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,TGSRTC - 1656,Rajdhani (AC Semi Sleeper 2+2),22:15,05h 40m,03:55,3.7,584,23
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Orange Tours and Travels,Volvo Multi-Axle A/C (2+2),18:00,05h 15m,23:15,3.8,600,2
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Savera Tours and Travels,NON A/C Sleeper (2+1),22:15,07h 15m,05:30,3.8,599,1
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Sahara Tours and Travels,A/C Sleeper (2+1),22:30,06h 15m,04:45,3.7,650,2
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Muskan Travels,NON A/C Semi Sleeper (2+2),21:30,08h 30m,06:00,3.4,495,1
+Telangana,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,MDK TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),22:00,07h 30m,05:30,3.2,509,3
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,TGSRTC - 7998,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,04h 40m,21:30,3.6,353,31
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,TGSRTC - 8113,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,04h 40m,23:10,3.6,353,29
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,TGSRTC - 7932,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,05h 50m,00:50,3.6,353,29
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,TGSRTC - 8115,Rajdhani (AC Semi Sleeper 2+2),19:25,04h 40m,00:05,3.6,428,34
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,TGSRTC - 7891,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,05h 40m,01:10,3.6,353,31
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,New Royal Travels (Raipur),Bharat Benz A/C Sleeper (2+1),17:30,04h 15m,21:45,3.6,672,9
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,Orange Tours and Travels,Volvo Multi-Axle A/C (2+2),18:00,04h 00m,22:00,3.1,550,2
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,Muskan Travels,NON A/C Sleeper (2+1),21:45,06h 00m,03:45,3.5,766,2
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,MDK TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),22:00,05h 00m,03:00,3.1,399,3
+Telangana,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,Orange Tours and Travels,A/C Sleeper (2+1),22:00,04h 00m,02:00,4.2,750,13
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,TGSRTC - 7040,e-SUP LUXURY (2+2),16:40,03h 00m,19:40,3.5,260,36
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,TGSRTC - 7376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:50,03h 15m,20:05,3.5,260,31
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,TGSRTC - 7117,Rajdhani (AC Semi Sleeper 2+2),17:00,03h 00m,20:00,3.5,315,30
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,TGSRTC - 7042,e-SUP LUXURY (2+2),17:10,03h 00m,20:10,3.5,260,36
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,TGSRTC - 7044,e-SUP LUXURY (2+2),17:20,03h 00m,20:20,3.5,260,36
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,DNR Express,AC Sleeper (2+1),21:30,02h 29m,23:59,1.7,1200,10
+Telangana,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,Shree Saipooja Travels,A/C Seater/Sleeper (2+1),23:10,03h 20m,02:30,2.7,2850,42
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TGSRTC - 8791,Rajdhani (AC Semi Sleeper 2+2),19:00,06h 00m,01:00,3.7,548,32
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TGSRTC - 6631,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,07h 00m,03:30,3.7,470,29
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TGSRTC - 8754,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,06h 00m,02:45,3.7,451,30
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TGSRTC - 1224,Deluxe (Non AC Seater 2+2),21:00,08h 36m,05:36,3.7,392,31
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,TGSRTC - 8797,Rajdhani (AC Semi Sleeper 2+2),21:15,06h 00m,03:15,3.7,548,28
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,BSR Tours And Travels,Volvo Multi-Axle A/C Sleeper (2+1),23:30,06h 30m,06:00,4.6,1080,10
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:15,06h 45m,06:00,4.6,880,6
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,4.8,790,7
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:10,05h 50m,05:00,4.1,690,3
+Telangana,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad,SAIRAJ TRAVELS,A/C Sleeper (2+1),23:00,06h 30m,05:30,4.7,800,5
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TGSRTC - 8715,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,06h 10m,23:10,3.8,451,29
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TGSRTC - 8869,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,06h 05m,23:50,3.8,451,29
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TGSRTC - 8933,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,06h 30m,01:45,3.8,451,31
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TGSRTC - 7645,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,08h 10m,03:40,3.8,451,24
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,TGSRTC - 34336,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,06h 10m,01:40,3.8,451,31
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,4.7,980,1
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,BSR Tours And Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:00,06h 30m,04:30,4.4,1080,8
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 10m,05:30,4.2,790,1
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,VSR Tours and Travels,A/C Sleeper (2+1),23:00,05h 50m,04:50,4.4,809,7
+Telangana,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,06h 45m,05:00,4.4,900,5
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,TGSRTC - 64363,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,05h 55m,23:55,3.9,453,28
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,TGSRTC - 8810,Rajdhani (AC Semi Sleeper 2+2),19:30,06h 30m,02:00,3.9,550,31
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,TGSRTC - 2492,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,06h 00m,01:30,3.9,456,30
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,TGSRTC - 8804,Rajdhani (AC Semi Sleeper 2+2),20:15,07h 35m,03:50,3.9,590,19
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,TGSRTC - 2415,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:40,07h 00m,03:40,3.9,456,20
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,Mozo travels,A/C Seater / Sleeper (2+1),22:40,06h 25m,05:05,4.3,600,16
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,07h 40m,05:00,4.3,500,7
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,4.0,500,16
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,Sri KVR Travels,A/C Sleeper (2+1),22:00,06h 50m,04:50,4.5,800,21
+Telangana,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli,Mythri Tours And Travels,A/C Sleeper (2+1),23:00,05h 15m,04:15,4.1,809,8
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Kadamba Transport Corporation Limited (KTCL) - 89821,A/C Sleeper (2+1),19:15,10h 35m,05:50,3.9,900,7
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Kadamba Transport Corporation Limited (KTCL) - 180183,A/C Sleeper (2+1),20:30,09h 30m,06:00,4.2,1200,1
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,Bharat Benz A/C Sleeper (2+1),23:30,09h 15m,08:45,4.7,900,8
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,10h 15m,08:45,4.6,920,7
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),21:00,10h 30m,07:30,4.7,900,7
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,AdAnand Tours And Travels,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),21:15,10h 30m,07:45,4.8,999,21
+Goa,Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels Benz,Bharat Benz A/C Sleeper (2+1),21:05,11h 25m,08:30,4.5,900,12
+Goa,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Kadamba Transport Corporation Limited (KTCL) - 180251,A/C Sleeper (2+1),19:45,11h 15m,07:00,3.5,1500,1
+Goa,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:00,13h 00m,10:00,4.6,999,15
+Goa,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Butterfly Holidays,VE A/C Sleeper (2+1),21:10,12h 25m,09:35,4.5,1399,1
+Goa,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,AdIntrCity SmartBus,AC Sleeper (2+1),22:10,13h 50m,12:00,3.8,799,12
+Goa,Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sunrise Tours and Travels,A/C Sleeper (2+1),21:20,12h 05m,09:25,4.4,999,14
+Goa,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Kadamba Transport Corporation Limited (KTCL) - 97386,Volvo AC Seater Pushback 2+2,17:05,12h 55m,06:00,4.1,1000,11
+Goa,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:40,14h 20m,09:00,4.6,700,16
+Goa,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),18:45,15h 45m,10:30,4.5,1293,5
+Goa,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,AdKonkan Travels Mujawar,NON A/C Sleeper (2+1),18:50,16h 55m,11:45,3.7,800,15
+Goa,Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),20:00,15h 55m,11:55,4.4,1000,13
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Kadamba Transport Corporation Limited (KTCL) - 180182,A/C Sleeper (2+1),17:00,11h 45m,04:45,3.1,900,5
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Kadamba Transport Corporation Limited (KTCL) - 89820,A/C Sleeper (2+1),19:00,12h 00m,07:00,3.7,900,8
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,10h 25m,08:55,4.7,1099,9
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,Bharat Benz A/C Sleeper (2+1),23:00,09h 00m,08:00,4.8,1199,6
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,11h 30m,07:00,4.7,750,14
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,AdAshray Grand,Volvo Multi-Axle A/C Sleeper (2+1),22:00,11h 30m,09:30,4.1,1050,12
+Goa,Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Travels Club,Non A/C Seater / Sleeper (2+1),20:00,10h 30m,06:30,4.5,580,12
+Goa,Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,NON A/C Sleeper (2+1),01:00,05h 00m,06:00,1.6,799,8
+Goa,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Kadamba Transport Corporation Limited (KTCL) - 116186,Volvo AC Seater 2+2,18:30,13h 30m,08:00,3.9,900,17
+Goa,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),18:30,14h 30m,09:00,4.6,1000,5
+Goa,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),20:00,14h 10m,10:10,4.6,1000,5
+Goa,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),17:55,15h 30m,09:25,4.5,1215,3
+Goa,Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,14h 15m,10:15,4.5,800,15
+Goa,Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PSR Travels Goa (Parrikar),VE A/C Sleeper (2+1),16:45,04h 40m,21:25,3.5,1199,14
+Goa,Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PSR Travels Goa (SOARES),A/C Sleeper (2+1),18:00,04h 30m,22:30,3.5,1299,16
+Goa,Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PVS Tours and Travels,A/C Sleeper (2+1),19:30,04h 00m,23:30,3.4,1199,9
+Goa,Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,S R Travels,A/C Seater/Sleeper (2+1),20:30,05h 30m,02:00,3.1,700,11
+Goa,Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,Orange Tours and Travels,A/C Sleeper (2+1),17:30,04h 00m,21:30,2.8,1000,23
+Goa,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Kadamba Transport Corporation Limited (KTCL) - 180243,A/C Sleeper (2+1),18:30,13h 00m,07:30,3.6,1400,9
+Goa,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),18:00,12h 30m,06:30,4.7,1299,8
+Goa,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,AC Sleeper (2+1),18:00,13h 20m,07:20,4.4,1000,7
+Goa,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,AdFlixBus,Bharat Benz A/C Sleeper (2+1),17:30,13h 25m,06:55,4.4,1659.82,11
+Goa,Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,A/C Sleeper (2+1),17:00,12h 10m,05:10,4.5,1152,2
+Goa,Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:15,12h 45m,10:00,4.0,790,3
+Goa,Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,12h 00m,07:00,3.9,790,3
+Goa,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,13h 30m,08:30,3.7,920,2
+Goa,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,10h 15m,05:15,3.6,1600,17
+Goa,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,IntrCity SmartBus,AC Sleeper (2+1),17:40,10h 00m,03:40,3.7,1004,6
+Goa,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Atmaram Gobus,Bharat Benz A/C Sleeper (2+1),18:00,09h 30m,03:30,4.7,1125,7
+Goa,Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Zingbus Plus,AC Sleeper (2+1),16:20,10h 10m,02:30,3.1,1115,23
+Goa,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,07h 30m,02:30,4.3,450,3
+Goa,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels (Dolphin),A/C Sleeper (2+1),16:15,05h 15m,21:30,4.1,499,20
+Goa,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels (Dolphin),A/C Sleeper (2+1),16:30,06h 15m,22:45,3.7,499,15
+Goa,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Asmat Travels,Non AC Seater (2+2),16:40,03h 50m,20:30,3.4,299,20
+Goa,Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra,Atmaram Travels (Vishal),A/C Sleeper (2+1),18:00,06h 25m,00:25,4.1,499,19
+Goa,Belagavi to Marcel,https://www.redbus.in/bus-tickets/belagavi-to-marcel,Kadamba Transport Corporation Limited (KTCL) - 180979,Non AC Seater (2+2),16:15,02h 45m,19:00,4.0,150,1
+Goa,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,20:00,14h 00m,10:00,4.2,920,1
+Goa,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Sharma Travels,Bharat Benz A/C Sleeper (2+1),23:00,10h 00m,09:00,4.6,1429,6
+Goa,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Sharma Travels,AC Sleeper (2+1),22:30,10h 00m,08:30,4.1,1200,11
+Goa,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,3.2,1550,5
+Goa,Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Khurana Travel Services,A/C Sleeper (2+1),22:15,09h 15m,07:30,3.5,1200,12
+Goa,Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,11h 05m,06:05,4.1,730,3
+Goa,Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Atmaram Gobus,Bharat Benz A/C Sleeper (2+1),18:00,08h 30m,02:30,5.0,1125,7
+Goa,Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),19:00,09h 00m,04:00,3.1,1600,23
+Goa,Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater (2+2),18:30,01h 30m,20:00,4.9,200,42
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,HRTC - 532,Ordinary 3+2 Non AC Seater,17:59,10h 16m,04:15,3.8,512,22
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,HRTC - 2040094,Ordinary 3+2 Non AC Seater,18:31,09h 44m,04:15,4.1,512,36
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,HRTC - 301,Ordinary 3+2 Non AC Seater,19:43,09h 47m,05:30,4.7,512,25
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,HRTC - 591,A/C Executive (2+3),21:00,10h 20m,07:20,4.0,632,33
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,HRTC - 570,Ordinary 3+2 Non AC Seater,21:25,09h 20m,06:45,3.6,512,29
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,Himachal Pradesh Tourism Development Corporation (HPTDC) - 145607,AC Seater (2+2),21:00,09h 00m,06:00,4.1,1000,5
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),22:55,08h 50m,07:45,4.7,564,21
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,Bedi Travels,Volvo A/C Semi Sleeper (2+2),23:00,09h 00m,08:00,4.6,564,19
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,AdOurBus India Limited,Bharat Benz A/C Semi Sleeper (2+2),23:00,09h 00m,08:00,4.2,439,18
+Himachal Pradesh,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,08h 30m,08:00,4.6,500,40
+Himachal Pradesh,Chandigarh to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,04h 00m,22:00,3.7,310,21
+Himachal Pradesh,Chandigarh to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh,HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,06h 45m,01:00,3.8,362,37
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,HRTC - 1106,Ordinary 3+2 Non AC Seater,21:40,04h 20m,02:00,3.8,310,10
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:15,04h 05m,01:20,4.6,1220,7
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),21:45,03h 45m,01:30,3.4,1499,4
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),22:00,04h 20m,02:20,5.0,1910,9
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:05,04h 35m,02:40,4.9,1299,6
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,HRTC - 103,Ordinary 3+2 Non AC Seater,17:18,08h 57m,02:15,1.3,512,26
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,HRTC - 104,A/C Executive (2+3),18:20,10h 10m,04:30,3.2,632,33
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,HRTC - 188,Ordinary 3+2 Non AC Seater,19:25,09h 32m,04:57,3.6,512,30
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,HRTC - 108,A/C Executive (2+3),21:20,09h 32m,06:52,4.3,632,7
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,HRTC - 130,Ordinary 3+2 Non AC Seater,21:45,08h 30m,06:15,3.9,512,25
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,08h 00m,05:30,4.8,874,2
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,08h 15m,04:45,4.6,1399,4
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,08h 40m,06:40,4.5,1290,17
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,08h 50m,05:20,4.5,1692,17
+Himachal Pradesh,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi,Mr. Bus,Volvo A/C (2+2),22:30,07h 00m,05:30,N/A,943,8
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 532,Ordinary 3+2 Non AC Seater,17:59,05h 21m,23:20,3.8,290,22
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 530,Ordinary 3+2 Non AC Seater,18:20,05h 32m,23:52,3.8,290,37
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 593,Ordinary 3+2 Non AC Seater,18:20,05h 20m,23:40,3.8,285,36
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 587,Ordinary 3+2 Non AC Seater,18:25,04h 40m,23:05,3.8,290,34
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 549,A/C Executive (2+3),19:25,05h 15m,00:40,4.2,390,29
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,NueGo,Electric A/C Seater (2+2),16:30,05h 25m,21:55,4.1,494,15
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,FlixBus,A/C Seater (2+2),16:35,05h 20m,21:55,3.6,471.43,8
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 05m,23:05,4.6,566,13
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,AdKhurana Bus Service,Volvo A/C Semi Sleeper (2+2 ),22:05,06h 00m,04:05,3.8,1249,39
+Himachal Pradesh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),17:00,05h 15m,22:15,3.0,664,23
+Himachal Pradesh,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,HRTC - 1001,A/C Executive (2+3),17:15,10h 45m,04:00,2.6,692,19
+Himachal Pradesh,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,10h 40m,05:40,3.6,637,15
+Himachal Pradesh,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh,HRTC - 1028,A/C Executive (2+3),20:15,11h 00m,07:15,4.0,673,13
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,HRTC - 103,Ordinary 3+2 Non AC Seater,17:18,03h 01m,20:19,4.2,242,37
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,HRTC - 227,Ordinary 3+2 Non AC Seater,17:36,04h 24m,22:00,3.8,242,36
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,HRTC - 215,Ordinary 3+2 Non AC Seater,18:00,04h 30m,22:30,3.8,242,27
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,HRTC - 104,A/C Executive (2+3),18:20,03h 01m,21:21,3.5,257,34
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,HRTC - 188,Ordinary 3+2 Non AC Seater,19:25,03h 01m,22:26,3.8,242,35
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,03h 00m,23:30,4.7,212,22
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:30,03h 00m,00:30,4.9,550,2
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,03h 45m,01:45,4.8,440,20
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,03h 05m,23:35,4.3,1299,5
+Himachal Pradesh,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,PAL Travel Lines,Bharat Benz A/C Semi Sleeper (2+2),20:55,03h 40m,00:35,3.3,1099,1
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 925,A/C Executive (2+3),18:35,07h 25m,02:00,3.3,514,23
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 904,Ordinary 3+2 Non AC Seater,19:00,06h 30m,01:30,3.3,432,28
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,19:35,05h 40m,01:15,4.2,816,9
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,20:05,06h 10m,02:15,3.0,811,3
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 905,Ordinary 3+2 Non AC Seater,20:15,06h 15m,02:30,3.8,452,37
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:00,06h 20m,00:20,4.8,999,9
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),18:30,05h 25m,23:55,4.3,945,13
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,06h 00m,01:00,4.8,851,1
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,06h 20m,01:20,5.0,899,19
+Himachal Pradesh,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),19:05,06h 10m,01:15,4.0,936,8
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,HRTC - 587,Ordinary 3+2 Non AC Seater,18:25,09h 05m,03:30,3.7,580,34
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,HRTC - 540,Ordinary 3+2 Non AC Seater,19:00,13h 00m,08:00,4.8,731,37
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,HRTC - 548,Ordinary 3+2 Non AC Seater,19:31,09h 14m,04:45,4.3,580,27
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,HRTC - 552,Ordinary 3+2 Non AC Seater,19:45,08h 45m,04:30,3.7,580,18
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,HRTC - 559,Ordinary 3+2 Non AC Seater,20:29,11h 36m,08:05,4.1,643,16
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:45,08h 10m,05:55,4.8,919,12
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,08h 45m,06:15,4.8,971,3
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:20,08h 35m,05:55,4.7,920,11
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,08h 30m,04:30,4.6,776,8
+Himachal Pradesh,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),20:45,08h 20m,05:05,4.5,783,5
+Himachal Pradesh,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali,HRTC - 290,Ordinary 3+2 Non AC Seater,19:00,10h 30m,05:30,2.9,583,25
+Himachal Pradesh,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali,HRTC - 291,Himmani Deluxe 2+2 Non AC Seater,20:20,08h 40m,05:00,3.8,641,24
+Himachal Pradesh,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali,HRTC - 154,Himsuta AC Seater Volvo/Scania 2+2,21:00,09h 10m,06:10,3.9,963,22
+Himachal Pradesh,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali,HRTC - 293,Ordinary 3+2 Non AC Seater,21:40,08h 20m,06:00,3.3,556,34
+Himachal Pradesh,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,22:10,06h 30m,04:40,3.4,784,23
+Himachal Pradesh,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:45,05h 45m,05:30,4.6,599,12
+Himachal Pradesh,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:50,05h 40m,05:30,4.3,902,18
+Himachal Pradesh,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh,HRTC - 554,Ordinary 3+2 Non AC Seater,20:00,06h 15m,02:15,3.9,325,42
+Himachal Pradesh,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh,HRTC - 568,Ordinary 3+2 Non AC Seater,21:30,06h 30m,04:00,4.4,325,33
+Himachal Pradesh,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh,HRTC - 580,Ordinary 3+2 Non AC Seater,22:45,06h 15m,05:00,3.6,325,36
+Himachal Pradesh,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh,TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,06h 30m,01:30,2.7,3059,49
+Himachal Pradesh,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh,TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,06h 30m,03:30,2.7,3399,49
+Himachal Pradesh,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,HRTC - 531,Ordinary 3+2 Non AC Seater,17:50,16h 10m,10:00,4.1,876,23
+Himachal Pradesh,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,HRTC - 590,A/C Executive (2+3),19:00,15h 15m,10:15,2.6,1062,27
+Himachal Pradesh,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,15h 15m,11:30,4.3,1704,1
+Himachal Pradesh,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh,HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,20h 25m,18:35,3.5,907,34
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,HRTC - 401270,Ordinary 3+2 Non AC Seater,18:10,02h 55m,21:05,2.7,218,26
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,HRTC - 685,Ordinary 3+2 Non AC Seater,19:10,04h 30m,23:40,3.8,240,37
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,HRTC - 763,Ordinary 3+2 Non AC Seater,19:40,03h 10m,22:50,3.8,223,37
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,HRTC - 700,Himsuta AC Seater Volvo/Scania 2+2,20:00,03h 30m,23:30,3.8,459,32
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,HRTC - 1107,Ordinary 3+2 Non AC Seater,20:30,02h 50m,23:20,3.8,218,35
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),22:50,02h 40m,01:30,3.4,1499,4
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),23:00,03h 20m,02:20,4.4,1910,9
+Himachal Pradesh,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:00,02h 30m,01:30,4.1,1710,7
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,HRTC - 602,Ordinary 3+2 Non AC Seater,17:20,10h 40m,04:00,2.7,604,29
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,HRTC - 601,Ordinary 3+2 Non AC Seater,18:30,10h 00m,04:30,4.2,580,15
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,HRTC - 651,Ordinary 3+2 Non AC Seater,19:40,09h 20m,05:00,4.0,580,12
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,HRTC - 1106,Ordinary 3+2 Non AC Seater,21:40,08h 50m,06:30,3.6,580,10
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:15,08h 00m,05:15,4.7,1220,6
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),22:00,08h 40m,06:40,4.6,1910,9
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:05,08h 55m,07:00,4.5,1399,3
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,Northern Travels,Volvo A/C Semi Sleeper (2+2),21:45,07h 45m,05:30,4.4,1499,5
+Himachal Pradesh,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),22:05,07h 25m,05:30,3.9,1710,7
+Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,WARISPIYA TRAVELS,Bharat Benz A/C Seater (2+2),16:15,03h 25m,19:40,4.2,360,20
+Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Kalpana Travels,AC Seater (2+2),16:50,03h 25m,20:15,4.5,351,30
+Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Karisma Aarna,A/C Seater (2+1),17:00,04h 30m,21:30,4.4,351,32
+Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),19:00,04h 45m,23:45,3.7,438,24
+Assam,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,A/C Seater / Sleeper (2+1),20:00,05h 30m,01:30,4.8,438,31
+Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,IQRA,A/C Seater (2+1),20:45,03h 20m,00:05,N/A,450,28
+Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Nishigandha(Divya Tours & Travels),A/C Seater / Sleeper (2+1),21:15,02h 35m,23:50,4.2,530,22
+Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,DESTINY TRAVELS,NON A/C Seater (2+1),17:30,03h 10m,20:40,1.3,411,22
+Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,DESTINY TRAVELS,NON A/C Seater (2+1),18:45,03h 15m,22:00,1.3,441,24
+Assam,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Rongpur(Ayaan),Bharat Benz A/C Seater (2+1),20:00,02h 30m,22:30,2.5,425,27
+Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,NON A/C Seater (2+1),18:00,07h 30m,01:30,4.2,481,22
+Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,NON AC Seater/ Sleeper (2+1),19:00,05h 30m,00:30,4.1,481,24
+Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Laxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:05,06h 00m,01:05,3.8,475,21
+Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Shopuris Travels,NON AC Seater / Sleeper 2+1,19:45,06h 00m,01:45,3.1,700,27
+Assam,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Yatra Travels,A/C Seater / Sleeper (2+1),20:00,07h 15m,03:15,4.1,569,31
+Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,ANIRUDDHA TRAVELS,Non A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,3.5,650,2
+Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,SANJEEBANI TRAVELS,NON AC Seater / Sleeper 2+1,18:45,08h 15m,03:00,4.9,600,3
+Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,J.S. Travels,Non AC Seater (2+1),19:00,09h 00m,04:00,2.8,550,7
+Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Neha Travels,NON A/C Sleeper (2+1),17:00,10h 15m,03:15,3.0,700,20
+Assam,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Neha Travels,NON A/C Seater (2+2),17:15,11h 45m,05:00,3.0,750,21
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 532,Ordinary 3+2 Non AC Seater,17:59,05h 21m,23:20,3.8,290,22
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 530,Ordinary 3+2 Non AC Seater,18:20,05h 32m,23:52,3.8,290,37
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 593,Ordinary 3+2 Non AC Seater,18:20,05h 20m,23:40,3.8,285,36
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 587,Ordinary 3+2 Non AC Seater,18:25,04h 40m,23:05,3.8,290,34
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,HRTC - 549,A/C Executive (2+3),19:25,05h 15m,00:40,4.2,390,29
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,NueGo,Electric A/C Seater (2+2),16:30,05h 25m,21:55,4.1,494,16
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,FlixBus,A/C Seater (2+2),16:35,05h 20m,21:55,3.6,471.43,8
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:00,05h 35m,22:35,4.4,640,12
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,AdKhurana Bus Service,Volvo A/C Semi Sleeper (2+2 ),22:05,06h 00m,04:05,3.8,1249,39
+Chandigarh,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 05m,23:05,4.6,566,13
+Chandigarh,Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Zimindara Travels,AC Sleeper (2+1),20:00,02h 45m,22:45,3.9,849,27
+Chandigarh,Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Kohli Tour & Travellers,VE A/C Semi Sleeper (2+2),23:50,01h 40m,01:30,3.8,450,22
+Chandigarh,Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),A/C Sleeper (2+2),23:15,03h 15m,02:30,3.8,1999,22
+Chandigarh,Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),VE A/C Seater / Sleeper (2+1),20:40,02h 50m,23:30,3.8,899,29
+Chandigarh,Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,City Land Travels,A/C Seater / Sleeper (2+1),22:30,02h 00m,00:30,3.7,810,14
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,HRTC - 6709,Ordinary 3+2 Non AC Seater,21:00,05h 40m,02:40,3.8,290,34
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,HRTC - 6639,A/C Executive (2+3),22:35,04h 55m,03:30,2.4,390,33
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Chandigarh Transport Undertaking (CTU) - 165726,HVAC Seater (2+3),17:30,05h 35m,23:05,2.8,414.3,46
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,RSRTC - 192348,Super Luxury Volvo AC Seater Pushback 2+2,21:15,05h 15m,02:30,2.4,691,30
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater (2+2),16:25,04h 35m,21:00,4.5,399,5
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,AdKhurana Bus Service,Volvo A/C (2+2),21:50,05h 10m,03:00,4.1,500,4
+Chandigarh,Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,FlixBus,A/C Seater (2+2),16:25,05h 35m,22:00,3.8,516.07,3
+Chandigarh,Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Jujhar Travels,Mercedes Benz A/C (2+2),18:50,02h 00m,20:50,4.4,300,43
+Chandigarh,Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),21:20,02h 35m,23:55,4.5,428,17
+Chandigarh,Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Shree Mahaveer Travels Jaipur,A/C Seater/Sleeper (2+1),18:30,02h 30m,21:00,3.9,699,34
+Chandigarh,Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),19:00,02h 30m,21:30,3.5,674,36
+Chandigarh,Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),19:50,03h 15m,23:05,3.9,799,34
+Chandigarh,Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,Chandigarh Transport Undertaking (CTU) - 165938,HVAC Seater (2+3),20:00,09h 45m,05:45,4.2,634.7,35
+Chandigarh,Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:30,09h 30m,03:00,3.8,989,21
+Chandigarh,Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,GK Travels,A/C Seater/Sleeper (2+1),16:29,07h 31m,00:00,2.0,1234,5
+Chandigarh,Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02h 35m,01:05,3.9,799,2
+Chandigarh,Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Zimindara Travels,AC Sleeper (2+1),23:00,03h 15m,02:15,3.9,799,16
+Chandigarh,Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),Bharat Benz A/C Seater /Sleeper (2+1),23:55,02h 05m,02:00,3.8,899,4
+Chandigarh,Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,City Land Travels,Volvo A/C Semi Sleeper (2+2),00:40,01h 20m,02:00,3.7,853,27
+Chandigarh,Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),A/C Sleeper (2+2),23:59,01h 46m,01:45,3.8,2099,3
+Chandigarh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,HRTC - 1106,Ordinary 3+2 Non AC Seater,21:40,04h 20m,02:00,3.8,310,10
+Chandigarh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:15,04h 05m,01:20,4.6,1220,7
+Chandigarh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),21:45,03h 45m,01:30,3.4,1499,4
+Chandigarh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),22:00,04h 20m,02:20,5.0,1910,9
+Chandigarh,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:05,04h 35m,02:40,4.9,1299,6
+Chandigarh,Vrindavan to Chandigarh,https://www.redbus.in/bus-tickets/vrindavan-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),00:15,08h 15m,08:30,2.4,749,23
+Chandigarh,Vrindavan to Chandigarh,https://www.redbus.in/bus-tickets/vrindavan-to-chandigarh,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),19:05,07h 37m,02:42,3.8,999,17
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Uttarakhand Transport Corporation (UTC) - 134I251,Ordinary 3+2 Non AC Seater,17:45,05h 30m,23:15,3.8,320,38
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Uttarakhand Transport Corporation (UTC) - 453I973,Volvo A/C Seater (2+2),18:10,05h 00m,23:10,3.9,552,38
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,NueGo,Electric A/C Seater (2+2),18:00,04h 55m,22:55,4.6,371,7
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Zimindara Travels,AC Sleeper (2+1),23:00,06h 30m,05:30,3.9,849,7
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),23:40,05h 35m,05:15,3.9,578,15
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),23:55,05h 20m,05:15,4.3,692,18
+Chandigarh,Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Laxmi Holidays Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06h 15m,06:10,3.9,518,14
+Chandigarh,Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,Uttarakhand Transport Corporation (UTC) - 132F246,Ordinary 3+2 Non AC Seater,22:00,05h 30m,03:30,4.3,320,44
+Chandigarh,Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),VE A/C Seater / Sleeper (2+1),17:00,06h 30m,23:30,3.5,899,18
+Chandigarh,Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,City Land Travels,A/C Seater / Sleeper (2+1),17:30,07h 00m,00:30,3.0,810,14
+Chandigarh,Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,NueGo,Electric A/C Seater (2+2),18:00,04h 55m,22:55,4.4,333,15
+Chandigarh,Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,Laxmi holidays,VE A/C Semi Sleeper (2+2),18:30,05h 20m,23:50,4.8,944,18
+Bihar,Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,V.I.P Travels,A/C Seater / Sleeper (2+2),21:40,06h 00m,03:40,3.9,350,32
+Bihar,Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,06h 40m,05:00,3.2,585,54
+Bihar,Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Om Sai Ram Bus,NON A/C Seater (2+2),17:55,04h 25m,22:20,N/A,350,41
+Bihar,Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Om Sai Ram Bus,A/C Seater (2+2),18:10,04h 20m,22:30,N/A,400,41
+Bihar,Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Om Sai Ram Bus,NON A/C Seater (2+2),18:30,04h 30m,23:00,N/A,350,41
+Bihar,Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Bihar state road transport corporation (BSRTC) - 181063,Non AC Seater (2+2),21:20,04h 10m,01:30,3.7,230,33
+Bihar,Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Shree Balajee Travels And Cargo,A/C Sleeper (2+1),18:01,03h 30m,21:31,1.3,2500,24
+Bihar,Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Panwar Travels,A/C Seater / Sleeper (2+1),18:10,03h 25m,21:35,2.6,1050,19
+Bihar,Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:00,03h 30m,23:30,1.0,450,34
+Bihar,Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,06h 00m,04:00,2.9,585,45
+Bihar,Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Bihar state road transport corporation (BSRTC) - 170674,Non AC Seater (2+2),20:30,05h 30m,02:00,2.2,285,21
+Bihar,Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),21:30,08h 01m,05:31,3.9,495,40
+Bihar,Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Om Sai Ram Bus,NON A/C Seater (2+2),17:30,19h 25m,12:55,N/A,350,41
+Bihar,Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Om Sai Ram Bus,NON A/C Seater (2+2),19:00,19h 35m,14:35,N/A,350,41
+Bihar,Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Om Sai Ram Bus,NON A/C Seater (2+2),19:45,19h 25m,15:10,N/A,350,41
+Bihar,Balmiki Nagar (bihar) to Patna (Bihar),https://www.redbus.in/bus-tickets/balmiki-nagar-bihar-to-patna,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:30,10h 30m,05:00,2.3,450,38
+Bihar,Patna (Bihar) to Balmiki Nagar (bihar),https://www.redbus.in/bus-tickets/patna-to-balmiki-nagar-bihar,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,08h 20m,07:00,2.7,405,25
+Bihar,Patna (Bihar) to Balmiki Nagar (bihar),https://www.redbus.in/bus-tickets/patna-to-balmiki-nagar-bihar,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:00,10h 00m,06:00,1.8,450,34
+Bihar,Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,09h 05m,06:30,3.2,468,30
+Bihar,Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,09h 05m,06:05,1.3,720,21
+Bihar,Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,09h 05m,05:05,1.3,675,26
+Bihar,Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:45,08h 45m,05:30,1.3,899,29
+Bihar,Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,08h 35m,05:30,3.7,500,5
+Bihar,Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,MAA SHANTI TRAVELS,A/C Sleeper (2+1),22:20,07h 35m,05:55,4.4,990,2
+Bihar,Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:00,09h 35m,06:35,4.0,585,11
+Bihar,Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Divya Rath,A/C Sleeper (2+1),22:10,07h 20m,05:30,4.2,1200,2
+Bihar,Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Mahuli Travels,A/C Seater/Sleeper (2+1),21:15,09h 00m,06:15,3.7,578,15
+Bihar,Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,08h 15m,05:40,3.5,468,30
+Bihar,Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Divya Rath,A/C Sleeper (2+1),20:45,09h 00m,05:45,4.2,700,15
+Bihar,Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,08h 55m,06:20,3.9,600,10
+Bihar,Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:15,09h 00m,06:15,3.8,500,6
+Bihar,Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Shatabdi Travels,A/C Seater / Sleeper (2+1),22:05,09h 00m,07:05,3.1,600,18
+Bihar,Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),23:15,06h 15m,05:30,3.6,377,5
+Bihar,Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),23:30,07h 05m,06:35,3.9,585,11
+Bihar,Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),23:40,06h 55m,06:35,3.9,495,20
+Bihar,Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 30m,05:00,1.5,495,2
+Bihar,Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Mahuli Travels,A/C Seater/Sleeper (2+1),23:59,06h 16m,06:15,2.3,578,15
+Bihar,Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,10h 00m,04:00,3.8,484,23
+Bihar,Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Pawapuri Motors,A/C Seater / Sleeper (2+1),17:30,09h 30m,03:00,2.7,750,14
+Bihar,Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:40,09h 20m,04:00,2.2,750,1
+Bihar,Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Tejas Maa Bhawani,Non AC Seater (2+2),18:30,08h 00m,02:30,2.2,599,4
+Bihar,Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,09h 19m,06:00,2.8,525,22
+Bihar,Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,MAA SHANTI TRAVELS,A/C Sleeper (2+1),20:27,07h 48m,04:15,4.4,800,6
+Bihar,Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:25,09h 20m,06:45,4.0,675,4
+Bihar,Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,AdMAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:10,09h 40m,06:50,4.0,900,12
+Bihar,Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,09h 00m,05:30,3.8,468,13
+Bihar,Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,06h 35m,04:00,3.8,450,30
+Bihar,Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,07h 00m,04:25,3.9,600,22
+Bihar,Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Shatabdi Travels,A/C Seater / Sleeper (2+1),22:05,07h 45m,05:50,3.5,600,20
+Bihar,Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Divya Rath,A/C Sleeper (2+1),20:45,07h 00m,03:45,2.2,700,16
+Bihar,Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),20:35,07h 30m,04:05,3.4,540,7
+Bihar,Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,12h 00m,06:00,3.6,605,23
+Bihar,Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:30,10h 30m,06:00,2.2,720,6
+Bihar,Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Alok Travels,A/C Seater/Sleeper (2+1),17:45,11h 30m,05:15,N/A,800,28
+Bihar,Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Jai Mata Di Tour and Travels,A/C Seater/Sleeper (2+1),18:00,10h 45m,04:45,2.6,810,9
+Bihar,Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Pawapuri Motors,A/C Seater / Sleeper (2+1),18:00,12h 00m,06:00,2.3,900,3
+Bihar,Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Bihar state road transport corporation (BSRTC) - 152896,Non AC Seater (2+2),21:59,08h 01m,06:00,2.5,400,7
+Bihar,Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Rukmanti (AT),A/C Seater / Sleeper (2+1),20:00,09h 00m,05:00,2.9,508,20
+Bihar,Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Tiwari Motors,A/C Seater / Sleeper (2+1),20:00,09h 05m,05:05,1.9,499,42
+Bihar,Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,07h 30m,03:30,2.0,650,18
+Bihar,Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,06h 00m,02:30,2.0,630,25
+Bihar,Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Bihar state road transport corporation (BSRTC) - 181063,Non AC Seater (2+2),21:20,05h 40m,03:00,3.8,293,33
+Bihar,Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Sree Balaji Travels,A/C Seater / Sleeper (2+2),19:30,08h 00m,03:30,1.9,500,4
+Bihar,Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Sree Balaji Travels,A/C Seater / Sleeper (2+2),21:00,08h 00m,05:00,1.9,500,24
+Bihar,Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,07h 00m,05:00,2.5,585,45
+Bihar,Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Sree Balaji Travels,A/C Seater / Sleeper (2+2),22:30,08h 00m,06:30,2.6,500,24
+Bihar,Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,07h 10m,04:35,3.5,468,30
+Bihar,Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Divya Rath,A/C Sleeper (2+1),20:45,08h 00m,04:45,4.2,700,15
+Bihar,Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,08h 05m,05:30,3.7,600,10
+Bihar,Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:15,08h 15m,05:30,3.6,500,6
+Bihar,Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,08h 50m,05:10,3.1,558,31
+Bihar,Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,10h 35m,07:30,3.7,605,5
+Bihar,Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:00,11h 30m,05:30,2.8,950,4
+Bihar,Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Alok Travels,A/C Seater/Sleeper (2+1),17:45,11h 30m,05:15,N/A,800,34
+Bihar,Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Tejas Maa Bhawani,A/C Sleeper (2+1),18:00,11h 15m,05:15,1.3,800,2
+Bihar,Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Tejas Maa Bhawani,Non AC Seater (2+2),18:25,11h 05m,05:30,2.0,649,4
+Bihar,Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),23:15,08h 15m,07:30,3.1,484,5
+Bihar,Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Pawapuri Motors,A/C Seater / Sleeper (2+1),21:45,08h 00m,05:45,3.0,850,9
+Bihar,Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),21:35,07h 55m,05:30,2.7,950,4
+Bihar,Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,A/C Sleeper (2+1),21:00,08h 15m,05:15,2.7,800,4
+Bihar,Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,Non AC Seater (2+2),21:00,08h 30m,05:30,2.7,649,4
+Bihar,Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,07h 19m,04:00,3.2,396,23
+Bihar,Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Mahuli Travels,A/C Seater/Sleeper (2+1),21:00,07h 00m,04:00,3.1,578,26
+Bihar,Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Maharani Express,A/C Seater / Sleeper (2+2),18:00,06h 55m,00:55,2.2,540,19
+Bihar,Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 00m,02:30,2.2,468,16
+Bihar,Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),20:45,07h 30m,04:15,2.8,481,11
+Bihar,Katihar to Patna (Bihar),https://www.redbus.in/bus-tickets/katihar-to-patna,Bihar state road transport corporation (BSRTC) - 156563,AC Seater (2+2),18:00,10h 00m,04:00,3.2,468,20
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - 16:40 (DIGHA DEPOT) - DIGGARIA-U/16-40,Express(Non AC Seater),16:40,04h 59m,21:39,2.9,162,49
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,3.0,330,8
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,3.9,650,18
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,2.7,370,23
+West Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+2),17:50,05h 10m,23:00,1.6,285,40
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.5,349,4
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,VE A/C Seater (2+2),23:45,05h 00m,04:45,4.2,349,32
+West Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,AC Seater (2+2),23:15,05h 15m,04:30,4.0,579,29
+West Bengal,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,City Express (Shinjini),AC Seater (2+3),23:15,04h 55m,04:10,3.2,370,23
+West Bengal,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+3),22:05,04h 55m,03:00,2.5,285,43
+West Bengal,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+2),18:30,04h 30m,23:00,1.4,285,42
+West Bengal,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Ankita Paribahan(Parameswar),AC Seater (2+2),18:45,04h 05m,22:50,2.2,360,38
+West Bengal,Mandarmani to Kolkata,https://www.redbus.in/bus-tickets/mandarmani-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:15,04h 55m,04:10,3.1,330,8
+West Bengal,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,04h 15m,03:45,4.5,349,4
+West Bengal,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Express Line,VE A/C Seater (2+2),23:45,04h 20m,04:05,4.2,349,32
+West Bengal,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),23:45,04h 15m,04:00,4.6,299,13
+West Bengal,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Lokenath Bus Service,Benz A/C Seater (2+2),23:45,04h 25m,04:10,4.3,299,43
+West Bengal,Kolkata to Mandarmani,https://www.redbus.in/bus-tickets/kolkata-to-mandarmani,Basu Travels,A/C Seater / Sleeper (2+2),23:59,04h 01m,04:00,3.3,369,34
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL-KOLKATA- 15:35(HOWRAH DEPOT) - ASANSOL 7-U/15-35,Express(Non AC Seater),16:40,03h 35m,20:15,3.6,150,32
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SBSTC-ASANSOL-KOLKATA- 16:30(HOWRAH DEPOT) - ASANSOL 8-U/16-30,Express(Non AC Seater),17:35,03h 35m,21:10,3.6,150,37
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Express Line (Karunamoyee),Scania Multi-Axle AC Semi Sleeper (2+2),16:30,03h 55m,20:25,4.3,486,7
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,04h 00m,20:40,3.7,486,16
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:55,04h 00m,20:55,3.7,486,18
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline,Volvo A/C Seater (2+2),17:10,03h 50m,21:00,4.4,486,11
+Sowth Bengal,Durgapur (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/durgapur-to-kolkata,Greenline (Karunamoyee),Volvo A/C Seater (2+2),17:30,03h 50m,21:20,4.1,486,14
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - DINANATHPUR - VIA - BURDWAN - 17:30 (BWN - DINANATHPUR-U/17-30,Express(Non AC Seater),17:30,02h 00m,19:30,3.2,95,42
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 18:15 (BWN DEPOT) - KOLKATA 5-D/18-15,Express(Non AC Seater),18:15,01h 59m,20:14,3.3,95,46
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA-BURDWAN AC 18:45 (BWN DEPOT) - KOL AC 2-D/18-45,A/C Seater (2+2),18:45,01h 59m,20:44,3.2,180,25
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SBSTC-KOLKATA - BURDWAN - 20:00 (BWN DEPOT) - KOLKATA 9-D/20-30,Express(Non AC Seater),20:00,02h 00m,22:00,3.2,95,49
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line (Karunamoyee),Volvo 9600 A/C Semi Sleeper (2+2),16:30,01h 30m,18:00,4.8,429,7
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:30,02h 00m,18:30,4.0,429,34
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,02h 15m,18:55,4.0,429,12
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,02h 35m,19:20,4.4,429,24
+Sowth Bengal,Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan,Express Line,Volvo 9600 A/C Seater (2+2),17:20,02h 10m,19:30,4.2,429,41
+Sowth Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,Non AC Seater (2+3),16:45,02h 45m,19:30,4.3,97,7
+Sowth Bengal,Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata,SBSTC-HALDIA-KOLKATA 17:30 (HAL DEPOT) - H15 N/H-U/17-30,Express(Non AC Seater),17:30,03h 00m,20:30,4.5,110,35
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KARUNAMOYEE - BANKURA - VIA - DURGAPUR - 17:00 - KMOYE 3-D/16-45,Express(Non AC Seater),17:00,03h 15m,20:15,3.6,155,38
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA-ASANSOL17:00 (ASN DEPOT) - KOL-8-L/S-D/17-00,Express(Non AC Seater),17:00,03h 25m,20:25,3.6,150,49
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA-DURGAPUR 17:15 (DGP DEPOT) - DGPKOLE-D/17-15,Express(Non AC Seater),17:15,02h 59m,20:14,3.6,150,49
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA-JAMURIA VIA-DURGAPUR-17:30 (HOW DEPOT) - JAMURIA 1-U/17:30,Express(Non AC Seater),17:30,03h 30m,21:00,N/A,150,51
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SBSTC-KOLKATA-DURGAPUR 18:30 (DGP DEPOT) - DGPKOLE-D/17-45,Express(Non AC Seater),18:30,04h 00m,22:30,3.6,150,49
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line (Karunamoyee),Volvo 9600 A/C Semi Sleeper (2+2),16:30,03h 15m,19:45,4.8,486,7
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:30,03h 30m,20:00,4.1,486,25
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,04h 00m,20:40,4.1,486,12
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,04h 00m,20:45,4.4,486,22
+Sowth Bengal,Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur,Express Line,Volvo 9600 A/C Seater (2+2),17:20,04h 00m,21:20,4.4,486,41
+Sowth Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA-HALDIA 17:00 (HAL DEPOT) - H33-D/17-00,Express(Non AC Seater),17:00,02h 59m,19:59,3.7,110,38
+Sowth Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLATA-HALDIA 17:30 (HAL DEPOT) - H31-D/17-30,Express(Non AC Seater),17:30,02h 59m,20:29,5.0,110,28
+Sowth Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,SBSTC-KOLKATA-HALDIA 18:15 (HAL DEPOT) - H39-D/18-15,Express(Non AC Seater),18:15,02h 59m,21:14,3.7,110,43
+Sowth Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,Monikanchan Bus Service,Non AC Seater (2+3),16:40,04h 00m,20:40,4.6,130,51
+Sowth Bengal,Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia,NANDALAL,Non AC Seater (2+2),17:45,03h 00m,20:45,3.9,131,44
+Sowth Bengal,Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,SBSTC-MIDNAPUR - KARUNAMOYEE - 16:40 - KARU NH-U/16-40,Express(Non AC Seater),16:40,03h 59m,20:39,2.2,110,15
+Sowth Bengal,Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata,WBTC (CTC) Barasat-Midnapur - 208|16:50,Non AC Seater (2+3),16:50,01h 50m,18:40,3.6,105,11
+Sowth Bengal,Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore,SBSTC-KOLKATA - MIDNAPUR - 18:00 (MID DEPOT) - KOL-08-D/19-00,Express(Non AC Seater),18:00,03h 00m,21:00,4.0,110,33
+Sowth Bengal,Kolkata to Arambagh (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-arambagh-west-bengal,SBSTC-KOLKATA -ARAMBAG 17:30 P.M (ARAM DEPOT) - KOLNS3-D/17-30,Express(Non AC Seater),17:30,01h 59m,19:29,1.8,95,14
+Sowth Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,4.5,349,4
+Sowth Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Express Line,VE A/C Seater (2+2),23:45,05h 00m,04:45,4.2,349,32
+Sowth Bengal,Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha,Mayuri Express,AC Seater (2+2),23:15,05h 15m,04:30,4.0,579,29
+Sowth Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,SBSTC-DIGHA - GARIA - 16:40 (DIGHA DEPOT) - DIGGARIA-U/16-40,Express(Non AC Seater),16:40,04h 59m,21:39,2.9,162,49
+Sowth Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,3.0,330,8
+Sowth Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,The Joy Ride,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,3.9,650,18
+Sowth Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,2.7,370,23
+Sowth Bengal,Digha to Kolkata,https://www.redbus.in/bus-tickets/digha-to-kolkata,Parameswar Travels,A/C Seater Push Back (2+2),17:50,05h 10m,23:00,1.6,285,40
+Sowth Bengal,Kolkata to Bankura,https://www.redbus.in/bus-tickets/kolkata-to-bankura,SBSTC-KARUNAMOYEE - BANKURA - VIA - DURGAPUR - 17:00 - KMOYE 3-D/16-45,Express(Non AC Seater),17:00,05h 30m,22:30,3.7,185,38
+Sowth Bengal,Kolkata to Bankura,https://www.redbus.in/bus-tickets/kolkata-to-bankura,City Queen Bus Service,Non AC Seater (2+2),20:50,05h 10m,02:00,3.3,250,11
+Sowth Bengal,Kolkata to Bankura,https://www.redbus.in/bus-tickets/kolkata-to-bankura,City Queen Bus Service,Non AC Seater (2+2),21:30,06h 00m,03:30,3.0,285,18
+Sowth Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SBSTC-KOLKATA-ASANSOL17:00 (ASN DEPOT) - KOL-8-L/S-D/17-00,Express(Non AC Seater),17:00,04h 30m,21:30,3.6,180,52
+Sowth Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,SHYAMOLI Pvt. Ltd.(Karunamoyee),Volvo A/C Seater (2+2),16:30,04h 30m,21:00,4.2,524,25
+Sowth Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Express Line (Karunamoyee),Volvo 9600 A/C Semi Sleeper (2+2),16:30,04h 15m,20:45,4.7,524,5
+Sowth Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),16:40,05h 00m,21:40,3.8,524,12
+Sowth Bengal,Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol,Greenline (Karunamoyee),Volvo A/C Seater (2+2),16:45,05h 00m,21:45,4.2,524,22
+Sowth Bengal,Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:50,12h 55m,08:45,4.8,3300,2
+Sowth Bengal,Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata,Raipur Cruiser,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,12h 40m,06:40,4.6,3360,2
+Sowth Bengal,Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,12h 50m,08:05,4.6,2800,4
+Sowth Bengal,Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata,Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:45,12h 55m,09:40,4.7,3500,8
+Sowth Bengal,Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata,Greenline,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,13h 00m,07:30,4.5,2700,1
+Jammu Kashmir,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),21:30,10h 30m,08:00,2.6,899,2
+Jammu Kashmir,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),21:30,10h 00m,07:30,1.5,699,35
+Jammu Kashmir,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),17:15,10h 00m,03:15,1.6,699,40
+Jammu Kashmir,Jammu (j and k) to Srinagar,https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),16:30,10h 00m,02:30,1.6,799,40
+Jammu Kashmir,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Zingbus Plus,A/C Sleeper (2+1),21:35,19h 50m,17:25,4.1,2447,7
+Jammu Kashmir,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,19h 20m,15:20,4.2,2550,11
+Jammu Kashmir,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Big Bus,A/C Seater / Sleeper (2+2),21:15,18h 15m,15:30,3.2,2599,14
+Jammu Kashmir,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Diva Bus,AC Sleeper (2+1),18:00,17h 00m,11:00,2.5,2199,12
+Jammu Kashmir,Delhi to Srinagar,https://www.redbus.in/bus-tickets/delhi-to-srinagar,Lavish Travels,A/C Seater / Sleeper (2+2),20:30,18h 15m,14:45,2.9,2775,48
+Jammu Kashmir,Srinagar to Jammu (j and k),https://www.redbus.in/bus-tickets/srinagar-to-jammu,Jamna Travels-Jammu,Non AC Seater (2+2),19:00,11h 45m,06:45,2.3,674,14
+Jammu Kashmir,Srinagar to Jammu (j and k),https://www.redbus.in/bus-tickets/srinagar-to-jammu,New Pal Travels,NON A/C Seater / Sleeper (2+2),20:00,10h 00m,06:00,2.1,499,35
+Jammu Kashmir,Delhi to Jammu (j and k),https://www.redbus.in/bus-tickets/delhi-to-jammu,Ram Dalal Holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,12h 45m,10:15,4.9,1300,13
+Jammu Kashmir,Delhi to Jammu (j and k),https://www.redbus.in/bus-tickets/delhi-to-jammu,Gola Bus Service,VE A/C Seater / Sleeper (2+1),20:00,13h 00m,09:00,4.7,549,13
+Jammu Kashmir,Delhi to Jammu (j and k),https://www.redbus.in/bus-tickets/delhi-to-jammu,Zingbus Plus,A/C Sleeper (2+1),21:35,11h 55m,09:30,4.7,1040,7
+Jammu Kashmir,Jammu (j and k) to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,JKRTC - 178968,NON A/C Seater (2+3),20:30,12h 00m,08:30,3.5,811,38
+Jammu Kashmir,Jammu (j and k) to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Ram Dalal Holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:10,11h 50m,09:00,4.8,3070,5
+Jammu Kashmir,Jammu (j and k) to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,11h 45m,08:15,4.6,1190,5
+Jammu Kashmir,Jammu (j and k) to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,11h 45m,08:00,4.6,3937,1
+Jammu Kashmir,Jammu (j and k) to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,11h 45m,09:00,4.6,2000,3
+Jammu Kashmir,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 55m,06:00,4.6,566,11
+Jammu Kashmir,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:35,07h 10m,06:45,4.4,655,6
+Jammu Kashmir,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,07h 10m,07:00,4.3,729,12
+Jammu Kashmir,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,AdRadhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,4.2,449,6
+Jammu Kashmir,Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,4.2,992,3
+Jammu Kashmir,Jammu (j and k) to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),16:30,04h 35m,21:05,3.8,400,1
+Jammu Kashmir,Jammu (j and k) to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),16:45,04h 30m,21:15,3.7,450,12
+Jammu Kashmir,Jammu (j and k) to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:15,04h 45m,22:00,3.7,495,5
+Jammu Kashmir,Jammu (j and k) to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,AdBhawani Travels,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,3.4,350,13
+Jammu Kashmir,Jammu (j and k) to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),18:30,04h 45m,23:15,3.6,400,1
+Jammu Kashmir,Amritsar to Jammu (j and k),https://www.redbus.in/bus-tickets/amritsar-to-jammu,Bhawani Travels,Bharat Benz A/C Seater (2+2),18:30,05h 00m,23:30,3.0,400,23
+Jammu Kashmir,Amritsar to Jammu (j and k),https://www.redbus.in/bus-tickets/amritsar-to-jammu,Bhawani Travels,A/C Seater / Sleeper (2+2),22:15,04h 45m,03:00,3.7,380.95,2
+Jammu Kashmir,Amritsar to Jammu (j and k),https://www.redbus.in/bus-tickets/amritsar-to-jammu,Jaspal Travels,A/C Seater / Sleeper (2+2),22:30,05h 30m,04:00,3.9,411,2
+Jammu Kashmir,Amritsar to Jammu (j and k),https://www.redbus.in/bus-tickets/amritsar-to-jammu,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),22:30,06h 00m,04:30,3.5,400,15
+Jammu Kashmir,Amritsar to Jammu (j and k),https://www.redbus.in/bus-tickets/amritsar-to-jammu,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),22:30,05h 00m,03:30,3.2,360,6
+Jammu Kashmir,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:50,07h 30m,04:20,4.5,990,7
+Jammu Kashmir,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,07h 25m,03:40,4.6,3543,1
+Jammu Kashmir,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 15m,03:45,4.5,1071,6
+Jammu Kashmir,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,AdMoon Light Travels Katra,A/C Seater / Sleeper (2+2),22:30,06h 10m,04:40,3.5,854,16
+Jammu Kashmir,Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,07h 30m,04:45,4.4,1800,3
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,RSRTC - 195742,A/C Seater / Sleeper (2+1),17:30,06h 29m,23:59,3.0,694,21
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,RSRTC - 195626,Deluxe AC Seater 2+2,18:30,06h 00m,00:30,2.6,639,30
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,RSRTC - 169145,A/C Seater / Sleeper (2+1),20:15,05h 30m,01:45,3.6,694,16
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,RSRTC - 192344,Super Luxury Volvo AC Seater Pushback 2+2,21:30,05h 30m,03:00,3.7,790,35
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,RSRTC - 191024,NON AC Seater / Sleeper 2+1,21:55,06h 00m,03:55,2.9,371,27
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Goldline Super Deluxe,Volvo 9600 Multi-Axle A/C Sleeper (2+1),00:20,05h 10m,05:30,4.6,400,14
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Goldline Super Deluxe,A/C Seater / Sleeper (2+1),22:50,06h 10m,05:00,4.6,350,9
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),19:45,06h 30m,02:15,4.6,475,20
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Goldline Super Deluxe,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:55,05h 35m,03:30,4.5,400,20
+Jammu Kashmir,Jaipur (Rajasthan) to Delhi,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Shakti Travels,A/C Seater / Sleeper (2+1),23:45,06h 00m,05:45,4.4,325,20
+Jammu Kashmir,Haridwar to Jammu (j and k),https://www.redbus.in/bus-tickets/haridwar-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:15,12h 30m,06:45,4.7,655,6
+Jammu Kashmir,Haridwar to Jammu (j and k),https://www.redbus.in/bus-tickets/haridwar-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:30,12h 30m,06:00,4.4,992,2
+Jammu Kashmir,Haridwar to Jammu (j and k),https://www.redbus.in/bus-tickets/haridwar-to-jammu,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),VE A/C Seater / Sleeper (2+1),18:20,12h 40m,07:00,3.9,1099,8
+Jammu Kashmir,Haridwar to Jammu (j and k),https://www.redbus.in/bus-tickets/haridwar-to-jammu,City Land Travels,A/C Seater / Sleeper (2+1),19:00,12h 00m,07:00,3.4,810,14
+Jammu Kashmir,Haridwar to Jammu (j and k),https://www.redbus.in/bus-tickets/haridwar-to-jammu,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),A/C Sleeper (2+2),20:15,12h 15m,08:30,4.5,1299,6
+Jammu Kashmir,Jammu (j and k) to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,JKRTC - 178990,NON A/C Seater (2+3),17:30,12h 00m,05:30,2.4,828,31
+Jammu Kashmir,Jammu (j and k) to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:50,12h 40m,09:30,4.4,990,7
+Jammu Kashmir,Jammu (j and k) to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:45,12h 15m,06:00,4.4,1170,1
+Jammu Kashmir,Jammu (j and k) to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,City Land Travels,A/C Seater/Sleeper (2+1),20:30,12h 30m,09:00,3.8,990,11
+Jammu Kashmir,Jammu (j and k) to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Shri Krishna Travels ( Jai Shree Ganesh Yatra Co.),VE A/C Seater / Sleeper (2+1),20:00,12h 55m,08:55,3.2,1399,1
+Jammu Kashmir,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:50,01h 40m,19:30,4.4,730,18
+Jammu Kashmir,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,Bharat Benz A/C Sleeper (2+1),18:30,01h 30m,20:00,4.5,659.82,6
+Jammu Kashmir,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:40,01h 40m,20:20,4.4,640,13
+Jammu Kashmir,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),18:45,01h 20m,20:05,5.0,96,33
+Jammu Kashmir,Katra (jammu and kashmir) to Jammu (j and k),https://www.redbus.in/bus-tickets/katra-to-jammu,Ram Dalal Holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:30,01h 40m,21:10,4.4,640,15
+Jammu Kashmir,Jaipur (Rajasthan) to Jammu (j and k),https://www.redbus.in/bus-tickets/jaipur-to-jammu,JKRTC - 178950,NON A/C Seater (2+3),17:18,20h 12m,13:30,3.5,1089,41
+Jammu Kashmir,Jaipur (Rajasthan) to Jammu (j and k),https://www.redbus.in/bus-tickets/jaipur-to-jammu,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:30,14h 30m,10:00,4.5,1199,27
+Jammu Kashmir,Jaipur (Rajasthan) to Jammu (j and k),https://www.redbus.in/bus-tickets/jaipur-to-jammu,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:00,14h 10m,07:10,4.5,1214,3
+Jammu Kashmir,Jaipur (Rajasthan) to Jammu (j and k),https://www.redbus.in/bus-tickets/jaipur-to-jammu,Ram Dalal Holidays,Bharat Benz A/C Seater /Sleeper (2+1),16:50,14h 50m,07:40,4.7,1299,6
+Jammu Kashmir,Jaipur (Rajasthan) to Jammu (j and k),https://www.redbus.in/bus-tickets/jaipur-to-jammu,Neeraj travels,Bharat Benz A/C Seater /Sleeper (2+1),16:30,16h 40m,09:10,4.2,1000,11
